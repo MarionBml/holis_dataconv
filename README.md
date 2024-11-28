@@ -14,5 +14,5 @@ This practical task tests the candidate's ability to manipulate and transform da
 2. Run the app
 
    ```
-   $ pip run conv.py
+   $ python conv.py
    ```
