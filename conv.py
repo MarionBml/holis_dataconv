@@ -1,9 +1,9 @@
 # import openpyxl
-import pandas
+import pandas as pd
 import sqlite3
 
 # Noms des fichiers utilisés
-excel_file = "BI_2.02__06_CatImpacts_Details.xlsx" 
+excel_file = "CatImpacts_Details.xlsx" 
 db_file = "ma_base.db"
 table_name = "CatImpacts_table" 
 
