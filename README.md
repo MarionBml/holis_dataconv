@@ -14,5 +14,5 @@ This practical task tests the candidate's ability to manipulate and transform da
 2. Run the app
 
    ```
-   #$ streamlit run streamlit_app.py
+   $ pip run conv.py
    ```
